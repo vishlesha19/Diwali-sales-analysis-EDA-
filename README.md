@@ -1,4 +1,4 @@
-# Diwali-sales-analysis-EDA-
+## Diwali-sales-analysis-EDA-
 Python Exploratory data analysis project
 1.Performed Data cleaning and manipulation
 2.performed Exploratory Data Analysis(EDA) using pandas, matplotlib, seaborn libraries.
